@@ -6,11 +6,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Voce ja e perguntou como resolvemos sobre situaçõen psicologicas?, hoje lhe daremo algumas opçoen o que podemos faer nessas situaçõen",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer."
+                texto: "oque se deve ser feito quando estamos tendo uma crise de ansiedade?"
+                afirmacao: "uma crise de ansiedade e causada por muitos motivos e uma das principais delas e os acumulos de sentimentos negativos, e causada principalmentes em adolecentes, e a melhor forma em ajudar seria entregando algo gelado como agua ou gelo, logo, tentar ajudar na respiraçao do paciente e tentar excultala"
             },
             {
                 texto: "Isso é maravilhoso!",
